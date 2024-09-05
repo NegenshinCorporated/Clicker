@@ -1,18 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\B-ZONE\\Clicker\\",
+  "WorkspaceRootPath": "C:\\GitHub\\Clicker\\Clicker\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A9BBE845-A60A-54B8-0492-D368BDF7E73A}|Assembly-CSharp.csproj|c:\\users\\b-zone\\clicker\\assets\\scripts\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A9BBE845-A60A-54B8-0492-D368BDF7E73A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\github\\clicker\\clicker\\assets\\scripts\\menuclose.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\scripts\\menuclose.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A9BBE845-A60A-54B8-0492-D368BDF7E73A}|Assembly-CSharp.csproj|C:\\Users\\B-ZONE\\Clicker\\assets\\scripts\\soundbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A9BBE845-A60A-54B8-0492-D368BDF7E73A}|Assembly-CSharp.csproj|C:\\GitHub\\Clicker\\Clicker\\assets\\scripts\\soundbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A9BBE845-A60A-54B8-0492-D368BDF7E73A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\soundbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A9BBE845-A60A-54B8-0492-D368BDF7E73A}|Assembly-CSharp.csproj|C:\\Users\\B-ZONE\\Clicker\\assets\\scripts\\buttoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A9BBE845-A60A-54B8-0492-D368BDF7E73A}|Assembly-CSharp.csproj|C:\\GitHub\\Clicker\\Clicker\\assets\\scripts\\buttoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A9BBE845-A60A-54B8-0492-D368BDF7E73A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\buttoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\GitHub\\Clicker\\Clicker\\assets\\scripts\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\scripts\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,41 +31,51 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Menu.cs",
-              "DocumentMoniker": "C:\\Users\\B-ZONE\\Clicker\\Assets\\Scripts\\Menu.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Menu.cs",
-              "ToolTip": "C:\\Users\\B-ZONE\\Clicker\\Assets\\Scripts\\Menu.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Menu.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAhAAAAAAAAAA==",
+              "Title": "MenuClose.cs",
+              "DocumentMoniker": "C:\\GitHub\\Clicker\\Clicker\\Assets\\Scripts\\MenuClose.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MenuClose.cs",
+              "ToolTip": "C:\\GitHub\\Clicker\\Clicker\\Assets\\Scripts\\MenuClose.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MenuClose.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-04T19:09:45.534Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "SoundButton.cs",
-              "DocumentMoniker": "C:\\Users\\B-ZONE\\Clicker\\Assets\\Scripts\\SoundButton.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\SoundButton.cs",
-              "ToolTip": "C:\\Users\\B-ZONE\\Clicker\\Assets\\Scripts\\SoundButton.cs",
-              "RelativeToolTip": "Assets\\Scripts\\SoundButton.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAqwBYAAAA/AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-04T17:35:41.389Z",
+              "WhenOpened": "2024-09-04T20:07:59.194Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "ButtonController.cs",
-              "DocumentMoniker": "C:\\Users\\B-ZONE\\Clicker\\Assets\\Scripts\\ButtonController.cs",
+              "DocumentMoniker": "C:\\GitHub\\Clicker\\Clicker\\Assets\\Scripts\\ButtonController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ButtonController.cs",
-              "ToolTip": "C:\\Users\\B-ZONE\\Clicker\\Assets\\Scripts\\ButtonController.cs",
+              "ToolTip": "C:\\GitHub\\Clicker\\Clicker\\Assets\\Scripts\\ButtonController.cs",
               "RelativeToolTip": "Assets\\Scripts\\ButtonController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAMAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-04T17:07:48.324Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-04T19:53:26.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SoundButton.cs",
+              "DocumentMoniker": "C:\\GitHub\\Clicker\\Clicker\\Assets\\Scripts\\SoundButton.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SoundButton.cs",
+              "ToolTip": "C:\\GitHub\\Clicker\\Clicker\\Assets\\Scripts\\SoundButton.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SoundButton.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwAMAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T19:53:15.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\GitHub\\Clicker\\Clicker\\Assets\\Scripts\\Menu.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Menu.cs",
+              "ToolTip": "C:\\GitHub\\Clicker\\Clicker\\Assets\\Scripts\\Menu.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Menu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T19:52:35.571Z"
             }
           ]
         }
