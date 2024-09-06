@@ -7,6 +7,7 @@ using UnityEngine.SocialPlatforms.Impl;
 public class ButtonController : MonoBehaviour
 {
     private int clicks;
+    private int clicksrate = 1;
     public TextMeshProUGUI clicksText;
     void Start()
     {
@@ -19,6 +20,15 @@ public class ButtonController : MonoBehaviour
     }
     public void Click()
     {
-        clicks++;
+        clicks += clicksrate;
+    }
+    public void UpgradeClick()
+    {
+        if (clicks >= 500)
+        {
+            clicks -= 500;
+            clicksrate += 1;
+
+        }
     }
 }
