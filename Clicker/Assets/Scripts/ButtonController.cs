@@ -12,8 +12,8 @@ public class ButtonController : MonoBehaviour
     void Start()
     {
         clicks = PlayerPrefs.GetInt("Clicks");
+        PlayerPrefs.SetInt("Clicks", clicks);
         clicksText.text = "Balance:" + clicks.ToString();
-        CheckClicks();
     }
     void Update()
     {
