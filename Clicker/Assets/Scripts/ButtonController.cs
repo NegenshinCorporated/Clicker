@@ -11,8 +11,9 @@ public class ButtonController : MonoBehaviour
     public TextMeshProUGUI clicksText;
     void Start()
     {
-        clicks = 0;
+        clicks = PlayerPrefs.GetInt("Clicks");
         clicksText.text = "Balance:" + clicks.ToString();
+        CheckClicks();
     }
     void Update()
     {
@@ -30,5 +31,9 @@ public class ButtonController : MonoBehaviour
             clicksrate += 1;
 
         }
+    }
+    public void CheckClicks()
+    {
+        PlayerPrefs.SetInt("Clicks", clicks);
     }
 }
