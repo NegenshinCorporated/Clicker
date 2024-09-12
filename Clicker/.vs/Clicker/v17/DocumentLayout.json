@@ -1,17 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\GitHub\\Clicker\\Clicker\\",
+  "WorkspaceRootPath": "C:\\Users\\B-ZONE\\GitHub\\Clicker\\Clicker\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A9BBE845-A60A-54B8-0492-D368BDF7E73A}|Assembly-CSharp.csproj|C:\\GitHub\\Clicker\\Clicker\\assets\\scripts\\buttoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A9BBE845-A60A-54B8-0492-D368BDF7E73A}|Assembly-CSharp.csproj|C:\\Users\\B-ZONE\\GitHub\\Clicker\\Clicker\\assets\\scripts\\buttoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A9BBE845-A60A-54B8-0492-D368BDF7E73A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\buttoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A9BBE845-A60A-54B8-0492-D368BDF7E73A}|Assembly-CSharp.csproj|c:\\github\\clicker\\clicker\\assets\\scripts\\exitgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A9BBE845-A60A-54B8-0492-D368BDF7E73A}|Assembly-CSharp.csproj|c:\\users\\b-zone\\github\\clicker\\clicker\\assets\\scripts\\saveresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9BBE845-A60A-54B8-0492-D368BDF7E73A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\saveresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9BBE845-A60A-54B8-0492-D368BDF7E73A}|Assembly-CSharp.csproj|C:\\Users\\B-ZONE\\GitHub\\Clicker\\Clicker\\assets\\scripts\\exitgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A9BBE845-A60A-54B8-0492-D368BDF7E73A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\exitgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A9BBE845-A60A-54B8-0492-D368BDF7E73A}|Assembly-CSharp.csproj|C:\\GitHub\\Clicker\\Clicker\\assets\\scripts\\soundbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A9BBE845-A60A-54B8-0492-D368BDF7E73A}|Assembly-CSharp.csproj|C:\\Users\\B-ZONE\\GitHub\\Clicker\\Clicker\\assets\\scripts\\soundbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A9BBE845-A60A-54B8-0492-D368BDF7E73A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\soundbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -22,43 +26,55 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ExitGame.cs",
-              "DocumentMoniker": "C:\\GitHub\\Clicker\\Clicker\\Assets\\Scripts\\ExitGame.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\ExitGame.cs",
-              "ToolTip": "C:\\GitHub\\Clicker\\Clicker\\Assets\\Scripts\\ExitGame.cs",
-              "RelativeToolTip": "Assets\\Scripts\\ExitGame.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "SaveResult.cs",
+              "DocumentMoniker": "C:\\Users\\B-ZONE\\GitHub\\Clicker\\Clicker\\Assets\\Scripts\\SaveResult.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SaveResult.cs",
+              "ToolTip": "C:\\Users\\B-ZONE\\GitHub\\Clicker\\Clicker\\Assets\\Scripts\\SaveResult.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SaveResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-05T19:36:35.494Z",
+              "WhenOpened": "2024-09-09T16:19:32.039Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ExitGame.cs",
+              "DocumentMoniker": "C:\\Users\\B-ZONE\\GitHub\\Clicker\\Clicker\\Assets\\Scripts\\ExitGame.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ExitGame.cs",
+              "ToolTip": "C:\\Users\\B-ZONE\\GitHub\\Clicker\\Clicker\\Assets\\Scripts\\ExitGame.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ExitGame.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T19:36:35.494Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "ButtonController.cs",
-              "DocumentMoniker": "C:\\GitHub\\Clicker\\Clicker\\Assets\\Scripts\\ButtonController.cs",
+              "DocumentMoniker": "C:\\Users\\B-ZONE\\GitHub\\Clicker\\Clicker\\Assets\\Scripts\\ButtonController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ButtonController.cs",
-              "ToolTip": "C:\\GitHub\\Clicker\\Clicker\\Assets\\Scripts\\ButtonController.cs",
+              "ToolTip": "C:\\Users\\B-ZONE\\GitHub\\Clicker\\Clicker\\Assets\\Scripts\\ButtonController.cs",
               "RelativeToolTip": "Assets\\Scripts\\ButtonController.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAYwA8AAAA5AAAA",
+              "ViewState": "AgIAADIAAAAAAAAAAAAwwDUAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-04T19:53:26.711Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "SoundButton.cs",
-              "DocumentMoniker": "C:\\GitHub\\Clicker\\Clicker\\Assets\\Scripts\\SoundButton.cs",
+              "DocumentMoniker": "C:\\Users\\B-ZONE\\GitHub\\Clicker\\Clicker\\Assets\\Scripts\\SoundButton.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\SoundButton.cs",
-              "ToolTip": "C:\\GitHub\\Clicker\\Clicker\\Assets\\Scripts\\SoundButton.cs",
+              "ToolTip": "C:\\Users\\B-ZONE\\GitHub\\Clicker\\Clicker\\Assets\\Scripts\\SoundButton.cs",
               "RelativeToolTip": "Assets\\Scripts\\SoundButton.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAxwAMAAAAVAAAA",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAMAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-04T19:53:15.882Z"
             }
